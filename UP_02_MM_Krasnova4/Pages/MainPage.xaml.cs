@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using UP_02_MM_Krasnova4.Classes;
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace UP_02_MM_Krasnova4.Pages
 {

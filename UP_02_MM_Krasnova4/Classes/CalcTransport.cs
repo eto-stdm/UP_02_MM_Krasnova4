@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UP_02_MM_Krasnova4.Classes
 {
-    internal class Calc
+    internal class CalcTransport
     {
     }
 }
